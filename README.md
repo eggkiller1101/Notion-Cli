@@ -1,3 +1,3 @@
 - Language: Python
 - Framework: Textual
-- Dtabase: SQlite3
+- Database: SQlite3
