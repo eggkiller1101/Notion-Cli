@@ -5,7 +5,6 @@
 - Dependencies management: Poetry/pipenv
 - Test: pytest
 - Automatic flow: GitHub Actions
-
 - PyInstaller打包位单文件发布到PyPI，提供Homebrew/Linux包
 
 - 目前想到的难点（在终端中实现困难或不美观）：
